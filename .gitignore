@@ -1,0 +1,34 @@
+# Environment Variables
+.env
+
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE Directories
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Rider and JetBrains IDEs
+*.idea/
+*.idea_modules/
+
+# Other Files
+*.swp
+*.temp
+*.tmp
+
+frontend
